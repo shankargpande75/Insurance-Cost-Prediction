@@ -18,16 +18,15 @@ predict healthcare expenses.
 ## Details of features:
 The columns are described as follows:dataset contains 1338 observations (rows) and 7 features (columns).
 
-age: age of primary beneficiary
-sex: beneficiary’s gender - female or male
-
-bmi: Body mass index, providing an understanding of body, weights that are
+1) age: age of primary beneficiary
+2) sex: beneficiary’s gender - female or male
+3) bmi: Body mass index, providing an understanding of body, weights that are
 relatively high or low relative to height, objective index of body weight (kg / m ^
 2) using the ratio of height to weight, ideally 18.5 to 24.9
-children: Number of children covered by health insurance / Number of
+4) children: Number of children covered by health insurance / Number of
 dependents
-smoker: Smoking or non-smoking
-region: the beneficiary&#39;s residential area in the US; northeast, southeast,
+5) smoker: Smoking or non-smoking
+6) region: the beneficiary&#39;s residential area in the US; northeast, southeast,
 southwest, northwest.
-charges: Individual medical costs billed by health insurance (to be predicted)
-Id: id of beneficiary
+7) charges: Individual medical costs billed by health insurance (to be predicted)
+8) Id: id of beneficiary
